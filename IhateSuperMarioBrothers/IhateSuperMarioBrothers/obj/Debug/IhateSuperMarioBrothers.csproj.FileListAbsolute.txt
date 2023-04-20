@@ -1,0 +1,12 @@
+D:\code\windows-forms\IhateSuperMarioBrothers\IhateSuperMarioBrothers\bin\Debug\IhateSuperMarioBrothers.exe.config
+D:\code\windows-forms\IhateSuperMarioBrothers\IhateSuperMarioBrothers\bin\Debug\IhateSuperMarioBrothers.exe
+D:\code\windows-forms\IhateSuperMarioBrothers\IhateSuperMarioBrothers\bin\Debug\IhateSuperMarioBrothers.pdb
+D:\code\windows-forms\IhateSuperMarioBrothers\IhateSuperMarioBrothers\obj\Debug\IhateSuperMarioBrothers.csproj.AssemblyReference.cache
+D:\code\windows-forms\IhateSuperMarioBrothers\IhateSuperMarioBrothers\obj\Debug\IhateSuperMarioBrothers.csproj.SuggestedBindingRedirects.cache
+D:\code\windows-forms\IhateSuperMarioBrothers\IhateSuperMarioBrothers\obj\Debug\IhateSuperMarioBrothers.Form1.resources
+D:\code\windows-forms\IhateSuperMarioBrothers\IhateSuperMarioBrothers\obj\Debug\IhateSuperMarioBrothers.Properties.Resources.resources
+D:\code\windows-forms\IhateSuperMarioBrothers\IhateSuperMarioBrothers\obj\Debug\IhateSuperMarioBrothers.csproj.GenerateResource.cache
+D:\code\windows-forms\IhateSuperMarioBrothers\IhateSuperMarioBrothers\obj\Debug\IhateSuperMarioBrothers.csproj.CoreCompileInputs.cache
+D:\code\windows-forms\IhateSuperMarioBrothers\IhateSuperMarioBrothers\obj\Debug\IhateSuperMarioBrothers.exe
+D:\code\windows-forms\IhateSuperMarioBrothers\IhateSuperMarioBrothers\obj\Debug\IhateSuperMarioBrothers.pdb
+D:\code\windows-forms\IhateSuperMarioBrothers\IhateSuperMarioBrothers\obj\Debug\IhateSuperMarioBrothers.Form2.resources
